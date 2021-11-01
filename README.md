@@ -1,6 +1,6 @@
 Introducción
 -------------
-Un dashboard de clientes de una clínica dental desarrollado con Vue3 y Option API para el front, y Firebase en el back con uso de Firestore como base de datos y para el propio hosting del proyecto. Para acceder al proyecto, [pulsa aquí](https://lokko-chatroom.web.app/).
+Un dashboard de clientes de una clínica dental desarrollado con Vue3 y Option API para el front, y Firebase en el back con uso de Firestore como base de datos y para el propio hosting del proyecto. Para acceder al proyecto, [pulsa aquí](https://secretaligner-test.web.app/).
 
 
 <p align="center">
